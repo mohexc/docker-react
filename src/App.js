@@ -19,6 +19,7 @@ const { Title } = Typography;
 
 const App = () => (
   <>
+    <h1>Haha</h1>
     <section style={{ textAlign: 'center', marginTop: 48, marginBottom: 40 }}>
       <Space align="start">
         <img
